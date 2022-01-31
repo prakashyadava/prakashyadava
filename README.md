@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Yadava</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashyadava&label=Profile%20views&color=0e75b6&style=flat" alt="prakashyadava" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prakashyadava&label=Profile%20views&color=0e75b6&style=flat" alt="prakashyadava" /> </p>
 
 - 🔭 I’m currently working on **my problem solving skill**
 
@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashyadava&show_icons=true&theme=radical&locale=en&layout=compact" alt="prakashyadava" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashyadava&show_icons=true&locale=en" alt="prakashyadava" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashyadava&show_icons=true&theme=radical&locale=en" alt="prakashyadava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashyadava&" alt="prakashyadava" /></p>
