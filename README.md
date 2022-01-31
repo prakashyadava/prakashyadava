@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashyadava&show_icons=true&theme=radical&locale=en" alt="prakashyadava" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashyadava&" alt="prakashyadava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashyadava&theme=radical&" alt="prakashyadava" /></p>
