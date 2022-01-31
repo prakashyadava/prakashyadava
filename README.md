@@ -4,15 +4,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prakashyadava&label=Profile%20views&color=0e75b6&style=flat" alt="prakashyadava" /> </p>
 
-- 🔭 I’m currently working on **my problem solving skill**
+ 🔭 I’m currently working on **my problem solving skill**
 
-- 🌱 I’m currently learning **nodeJs,Express,MongoDb**
+ 🌱 I’m currently learning **nodeJs,Express,MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prakashyadava](https://github.com/prakashyadava)
+ 👨‍💻 All of my projects are available at [https://github.com/prakashyadava](https://github.com/prakashyadava)
 
-- 💬 Ask me about **problem solving**
+ 💬 Ask me about **problem solving**
 
-- 📫 How to reach me **prakash.kumar.yadava@gmail.com**
+ 📫 How to reach me **prakash.kumar.yadava@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
