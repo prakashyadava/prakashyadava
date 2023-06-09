@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on **my problem solving skill**
 
- 🌱 I’m currently learning **nodeJs,Express,MongoDb**
+ 🌱 I’m currently learning **rust**
 
  👨‍💻 All of my projects are available at [https://github.com/prakashyadava](https://github.com/prakashyadava)
 
